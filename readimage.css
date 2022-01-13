@@ -2,7 +2,6 @@
 .text{
     font-family: 'Courier Prime', monospace;
     font: gray;
-    margin-top:1%;
 }
 .input-box{
     margin-top:1%;
@@ -14,7 +13,7 @@
 }
 .submit-button{
     margin-top:1%;
-    width:100%;
+    width:100.5%;
     height:50px;
     border-radius: 2px;
     border:solid 1px;
@@ -22,4 +21,7 @@
     background-color: rgba(165, 165, 165, 0.5);
     font-family: 'Courier Prime', monospace;
     font-weight: bold;
+}
+body{
+    margin:5%;
 }
